@@ -1,0 +1,4 @@
+[submodule "blog-new"]
+	path = blog-new
+	url = https://github.com/hezhilong5211/blog-new.git
+	branch = master
